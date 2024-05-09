@@ -1,8 +1,8 @@
-# TOPSIS-Dhruv-102117061
+# TOPSIS-Mohit Anand-102153025
 
 ## Overview
 
-The `TOPSIS-Dhruv-102117061` package is a specialized Python tool designed for conducting TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution) analysis on datasets. TOPSIS is an effective multi-criteria decision-making method that helps in evaluating and ranking alternatives by measuring their closeness to the ideal solution.
+The `TOPSIS-Mohit-102153025` package is a specialized Python tool designed for conducting TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution) analysis on datasets. TOPSIS is an effective multi-criteria decision-making method that helps in evaluating and ranking alternatives by measuring their closeness to the ideal solution.
 
 ## Features
 
@@ -28,4 +28,4 @@ topsis data.csv "1,1,1,1" "+,+,-,+" result.csv
 Python 3.x
 pandas library
 ## Contribution
-Contributions to the TOPSIS-Dhruv-102117061 package are highly encouraged and appreciated. You can contribute by opening issues, submitting pull requests, or suggesting enhancements.
+Contributions to the TOPSIS-Mohit-102153025 package are highly encouraged and appreciated. You can contribute by opening issues, submitting pull requests, or suggesting enhancements.
